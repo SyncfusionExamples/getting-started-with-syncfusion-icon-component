@@ -14,3 +14,5 @@ A quick-start Blazor project that helps you to get started with the Syncfusion I
 * Open the solution file using the Visual Studio 2022.
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
+
+This sample demonstrates how to use Syncfusion icons effectively in a Blazor application, including styling, sizing, and tooltip integration. It is ideal for developers looking to enhance UI elements with scalable and customizable icons. You can also explore how icons behave across different screen sizes and themes. The project provides a simple and clear structure, making it easy to extend and integrate with other Syncfusion components in your Blazor applications.
